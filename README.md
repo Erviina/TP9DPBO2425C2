@@ -42,9 +42,9 @@ Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan TP 8 dalam mata kuliah Desai
    - Menghubungkan index.php dengan Model dan View
    
    File penting:
-  - PresenterPembalap.php
-  - PresenterSponsor.php
-  - KontrakPresenter.php (interface presenter pembalap)
+   - PresenterPembalap.php
+   - PresenterSponsor.php
+   - KontrakPresenter.php (interface presenter pembalap)
 
 4. INDEX (/index.php)
    index.php bertugas:
