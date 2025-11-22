@@ -40,8 +40,8 @@ Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan TP 8 dalam mata kuliah Desai
    - Mengirim data ke View
    - Mengatur alur aplikasi (tambah, edit, hapus)
    - Menghubungkan index.php dengan Model dan View
-
-  File penting:
+   
+   File penting:
   - PresenterPembalap.php
   - PresenterSponsor.php
   - KontrakPresenter.php (interface presenter pembalap)
