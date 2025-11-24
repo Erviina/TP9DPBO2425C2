@@ -1,5 +1,27 @@
 Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan Tugas Praktikum 9 dalam mata kuliah Desain Pemogramana Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
+## Desain Class ##
+![pembalap](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/TP9.png?raw=true)
+
+Terdiri dari 2 kelas sebagai berikut :
+1. Kelas Pembalap
+   atribut:
+   - ID
+   - nama
+   - tim
+   - negara
+   - poinMusim
+   - jumlahMenang
+2. Kelas Sponsor
+   atribut :
+   - ID
+   - nama
+   - negara
+   - kontrakMulai
+   - kontrakSelesai
+
+kedua kelas ini belum memiliki relasi 
+
 ## Desain Program ##
 
 1. MODEL (/models)
