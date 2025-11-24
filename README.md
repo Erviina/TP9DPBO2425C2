@@ -1,4 +1,4 @@
-Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan TP 8 dalam mata kuliah Desain Pemogramana Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan Tugas Praktikum 9 dalam mata kuliah Desain Pemogramana Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Desain Program ##
 
@@ -96,6 +96,17 @@ Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan TP 8 dalam mata kuliah Desai
    - Data terhapus → kembali ke tabel.
 
 
+## Dokumentasi ##
+![add pembalap](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/addPembalap.gif?raw=true)
 
+![edit pembalap](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/editPembalap.gif?raw=true)
+
+![hapus pembalap](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/hapusPembalap.gif?raw=true) 
+
+![add sponsor](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/addSponsor.gif?raw=true) 
+
+![edit sponsor](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/editSponsor.gif?raw=true) 
+
+![hapus sponsor](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/hapusSponsor.gif?raw=true) 
 
 
