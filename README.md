@@ -97,16 +97,10 @@ Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan Tugas Praktikum 9 dalam mata
 
 
 ## Dokumentasi ##
-![add pembalap](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/addPembalap.gif?raw=true)
+![pembalap](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/pembalap.gif?raw=true)
 
-![edit pembalap](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/editPembalap.gif?raw=true)
+![Sponsor](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/sponsor.gif?raw=true)
 
-![hapus pembalap](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/hapusPembalap.gif?raw=true) 
 
-![add sponsor](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/addSponsor.gif?raw=true) 
-
-![edit sponsor](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/editSponsor.gif?raw=true) 
-
-![hapus sponsor](https://github.com/Erviina/TP9DPBO2425C2/blob/main/Dokumentasi/hapusSponsor.gif?raw=true) 
 
 
